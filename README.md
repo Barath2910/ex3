@@ -133,3 +133,7 @@ footer {
 ```
 ## OUTPUT:
 ![output](o1.png)
+
+## RESULT :
+Thus the html & css code to create Web-Layout using FLEXBOX has been created and output has been
+verified.
